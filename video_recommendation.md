@@ -24,6 +24,10 @@ This balance, this complement, of skills is well reflected in the partnership Ma
 
 Arlo was also a participant in the master class.  He also stepped into the role of co-presenter, co-teacher, co-facilitator on occasion.
 
+### Directors of Learning and Development (L&D)
+
+They are stuck in between the trainers and the students. The trainers have a mix of skills: SME, facilitation. The students have needs. The mapping between these is not typically as direct as it should be. SME's are experts on doing the subject matter, not on how to deliver that expertise or design steps to do so. These folks need to hone the skills of their trainers so that they are EFFECTIVE at transferring the knowledge, not just effective at performing the tasks that require the knowledge.
+
 Seeds for script:
 - Are you a technical coach or trainer who knows how to design great software, but haven't invested similar time in learning how to design great courses or great course material?  I was...
 
@@ -32,6 +36,8 @@ Seeds for script:
 I am a professional software developer and professional trainer/coach to software developers.  Use language the shows this and that will connect with people like me.
 
 Be personal.  This is about my personal experience in the course.  Speak in "I phrases", not about some remote thing.
+
+**Me-centric perspective:** I am a technical trainer, but I am not Marian's only target audience. I can only speak as a technical trainer, even when I am speaking to other roles. Adopt language to be me-centric - speak from my experience and perspective, acknowledging that I'm addressing different roles but from my technical trainer viewpoint.
 
 ## Personal Insights from Master Class
 
@@ -54,19 +60,33 @@ First person (Option A). I will be recording these for her to add into her marke
 
 **Focus on training, not software.** This course is about getting better at designing training material, not about designing better software. It could get confusing because most of the training I deliver is about improving software skills. But this video needs to focus on improving training skills and on improving course/curriculum design skills. For all courses (some of which are related to software).
 
+**Curriculum design, not teaching skills.** The Green Path will not improve my teaching and facilitation skills. It is directed at improving course and curriculum design skills (which may affect training outcomes). Focus on the design and structure of learning experiences, not on delivery techniques.
+
 ## Outputs
 
-For each target market, create scripts that are 10, 20, and 30 seconds eacy.  Update sub-sections to contain the text.
+For each target market, create scripts that are 10, 20, and 30 seconds each.  Update sub-sections to contain the text.
 
 ### Script - Technical Coaches (10 seconds)
 
-**"I used to think great training content would sell itself. Then I learned that even techies need emotional hooks to commit to learning. The Green Path showed me how to balance learning and doing in my course design - and my students actually started advancing instead of plateauing."**
+**"I used to design courses thinking the technical value would speak for itself. The Green Path taught me that even developers need emotional hooks to engage with learning. Now I balance knowledge and practice in my curriculum design - and my students actually progress instead of getting stuck."**
 
 ### Script - Technical Coaches (20 seconds)
 
-**"I was stuck designing technology-centric courses, thinking the training value should be self-evident. Then I realized I needed to be more student-centric in my curriculum design. The Green Path taught me to assess when students need knowledge versus practice, and how to meet them where they are - not where I think they should be."**
+**"I was designing technology-centric courses, assuming the value would be obvious. The Green Path showed me I needed to be student-centric in my curriculum design. Now I assess whether students need knowledge or practice, and meet them where they actually are - not where I think they should be."**
 
 ### Script - Technical Coaches (30 seconds)
 
-**"I used to design training courses like I design software - big design up front, predicting what everyone would need. But that rarely stuck. The Green Path showed me how to apply my engineering skills to curriculum design: breaking down learning problems, finding bottlenecks, rapid iteration with real feedback. Now I create 'Change that Sticks' - small, customized training that actually gets absorbed and adopted."**
+**"I used to design training like I design software - big design up front, predicting what everyone would need. But that rarely stuck. The Green Path taught me to apply my engineering skills to curriculum design: breaking down learning problems, finding bottlenecks, rapid iteration with real feedback. Now I create 'Change that Sticks' - small, customized training that actually gets absorbed and adopted."**
+
+### Script - L&D Directors (10 seconds)
+
+**"As a technical trainer, I realized I was great at doing the work but struggled to design learning experiences that actually worked. The Green Path showed me how to bridge that gap - so I could design curricula that connect with students, not just deliver content."**
+
+### Script - L&D Directors (20 seconds)
+
+**"I was a technical trainer stuck between knowing my subject matter and understanding how to structure learning experiences. The mapping wasn't direct enough. The Green Path taught me curriculum design skills - so I could create learning paths that actually connect with where students are."**
+
+### Script - L&D Directors (30 seconds)
+
+**"I used to think being a good technical trainer just meant knowing my stuff and having facilitation skills. Then I realized I was an expert at doing the work, but not at designing the structure of how to teach it. The Green Path showed me how to develop my curriculum design capabilities - so I could create effective learning experiences that bridge the gap between my expertise and student needs."**
 
