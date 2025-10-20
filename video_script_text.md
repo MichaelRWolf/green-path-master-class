@@ -53,7 +53,23 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 ### Script - L&D Directors (90 seconds)
 
-I just participated in a master class for "The Green Path", lead by Marian Hartman. It shifted how I think about curriculum design expertise. As a technical trainer, I thought I had everything figured out - I knew my subject matter inside and out, and I could facilitate sessions effectively. But I was missing a crucial piece: curriculum design expertise. I was stuck between knowing the technical work and understanding how to structure learning experiences that actually work for students. The mapping between my expertise and student needs wasn't direct enough. The Green Path taught me that even technical decisions are based on emotions - we're humans before we're engineers. I learned to assess when students need knowledge versus practice, and how to create emotional hooks tailored to different learning states. Now I can design learning paths that meet students where they actually are, not where I think they should be. The Green Path showed me how to apply my engineering skills to curriculum design - breaking down learning problems, finding bottlenecks, rapid iteration with real feedback. Instead of big design up front that rarely sticks, I now create "Change that Sticks" - small, customized training that actually gets absorbed and adopted.
+I just participated in a master class for "The Green Path", lead by Marian Hartman. It shifted how I think about curriculum design expertise. 
+
+As a technical trainer, I thought I had everything figured out - I knew my subject matter inside and out, and I could facilitate sessions effectively. 
+
+But I was missing a crucial piece: curriculum design expertise. 
+
+I was stuck between knowing the technical work and understanding how to structure learning experiences that actually work for students. The mapping between my expertise and student needs wasn't direct enough. 
+
+The Green Path taught me that even technical decisions are based on emotions - we're humans before we're engineers. 
+
+I learned to assess when students need knowledge versus practice, and how to create emotional hooks tailored to different learning states. 
+
+Now I can design learning paths that meet students where they actually are, not where I think they should be. 
+
+The Green Path showed me how to apply my engineering skills to curriculum design - breaking down learning problems, finding bottlenecks, rapid iteration with real feedback. 
+
+Instead of big design up front that rarely sticks, I now create "Change that Sticks" - small, customized training that actually gets absorbed and adopted.
 
 I'm Michael Wolf - software developer, software trainer, team coach.
 
