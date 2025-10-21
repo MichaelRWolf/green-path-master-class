@@ -1,0 +1,7 @@
+# Ignore zip directory
+zip/
+
+# Common temporary files
+*.tmp
+*.temp
+*~
