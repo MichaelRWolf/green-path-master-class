@@ -17,7 +17,7 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** *(20-second video not yet recorded)* *(Note: 20-second video not yet recorded)*
+**Video:** [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_20S) *(Upload pending)*
 
 ### Script - Technical Coaches (60 seconds)
 
@@ -29,8 +29,8 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Videos:**
 
-- [./raw/dev_60(1).mov](./raw/dev_60(1).mov)
-- [./raw/dev_60(2).mov](./raw/dev_60(2).mov)
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_60S_1) *(Upload pending)*
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_60S_2) *(Upload pending)*
 
 ### Script - Technical Coaches (90 seconds)
 
@@ -42,8 +42,8 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Videos:**
 
-- [./raw/dev-90(1).mov](./raw/dev-90(1).mov)
-- [./raw/dev-90(2).mov](./raw/dev-90(2).mov)
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_90S_1) *(Upload pending)*
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_90S_2) *(Upload pending)*
 
 ## L&D Directors Scripts
 
@@ -57,7 +57,7 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [./raw/L&D_20.mov](./raw/L&D_20.mov)
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_20S) *(Upload pending)*
 
 ### Script - L&D Directors (60 seconds)
 
@@ -69,7 +69,7 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [./raw/L&D_60.mov](./raw/L&D_60.mov)
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_60S) *(Upload pending)*
 
 ### Script - L&D Directors (90 seconds)
 
@@ -97,4 +97,4 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [./raw/L&D_90.mov](./raw/L&D_90.mov)
+- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_90S) *(Upload pending)*
