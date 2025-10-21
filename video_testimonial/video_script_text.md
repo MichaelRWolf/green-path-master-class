@@ -27,7 +27,10 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [dev_60(1).mov](./dev_60(1).mov) | [dev_60(2).mov](./dev_60(2).mov)
+**Videos:**
+
+- [./raw/dev_60(1).mov](./raw/dev_60(1).mov)
+- [./raw/dev_60(2).mov](./raw/dev_60(2).mov)
 
 ### Script - Technical Coaches (90 seconds)
 
@@ -37,7 +40,10 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [dev-90(1).mov](./dev-90(1).mov) | [dev-90(2).mov](./dev-90(2).mov)
+**Videos:**
+
+- [./raw/dev-90(1).mov](./raw/dev-90(1).mov)
+- [./raw/dev-90(2).mov](./raw/dev-90(2).mov)
 
 ## L&D Directors Scripts
 
@@ -49,7 +55,9 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [L&D_20.mov](./L&D_20.mov)
+**Video:**
+
+- [./raw/L&D_20.mov](./raw/L&D_20.mov)
 
 ### Script - L&D Directors (60 seconds)
 
@@ -59,7 +67,9 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [L&D_60.mov](./L&D_60.mov)
+**Video:**
+
+- [./raw/L&D_60.mov](./raw/L&D_60.mov)
 
 ### Script - L&D Directors (90 seconds)
 
@@ -85,4 +95,6 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [L&D_90.mov](./L&D_90.mov)
+**Video:**
+
+- [./raw/L&D_90.mov](./raw/L&D_90.mov)
