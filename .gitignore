@@ -1,0 +1,26 @@
+# Video files
+*.mov
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
