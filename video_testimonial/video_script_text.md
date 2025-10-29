@@ -17,7 +17,7 @@ I'm Michael Wolf - software developer, software trainer, team coach.
 
 If you want to improve your curriculum design, I highly recommend Marian's Green Path.
 
-**Video:** [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_20S) *(Upload pending)*
+**Video:** *(Missing - not recorded)*
 
 ### Script - Technical Coaches (60 seconds)
 
@@ -29,8 +29,8 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Videos:**
 
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_60S_1) *(Upload pending)*
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_60S_2) *(Upload pending)*
+- [Watch on YouTube](https://youtu.be/nn4Zzz38qlY)
+- [Watch on YouTube](https://youtu.be/rW-HCUh8aRo)
 
 ### Script - Technical Coaches (90 seconds)
 
@@ -42,8 +42,8 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Videos:**
 
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_90S_1) *(Upload pending)*
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_90S_2) *(Upload pending)*
+- [Watch on YouTube](https://youtu.be/oIKbFy1Sdv8)
+- [Watch on YouTube](https://youtu.be/GXN8kxvyk8w)
 
 ## L&D Directors Scripts
 
@@ -57,7 +57,7 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_20S) *(Upload pending)*
+- [Watch on YouTube](https://youtu.be/aLLSGI0hxEI)
 
 ### Script - L&D Directors (60 seconds)
 
@@ -69,7 +69,7 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_60S) *(Upload pending)*
+- [Watch on YouTube](https://youtu.be/uOfZMfQ2qYw)
 
 ### Script - L&D Directors (90 seconds)
 
@@ -97,4 +97,4 @@ If you want to improve your curriculum design, I highly recommend Marian's Green
 
 **Video:**
 
-- [Watch on YouTube](https://youtube.com/watch?v=PLACEHOLDER_LD_90S) *(Upload pending)*
+- [Watch on YouTube](https://youtu.be/9xTdYPh1wzo)
