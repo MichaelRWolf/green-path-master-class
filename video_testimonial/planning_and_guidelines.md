@@ -1,4 +1,4 @@
-# Video Recommendation
+# Video Testimonial - Panning & Guidelines
 
 ## Goal
 
